@@ -1,4 +1,4 @@
-answer =xxx("Дать по ебалу? [yep/nope]")
+answer =xxx("Дать Вам по ебалу, месье? [yep/nope]")
 print("Твой выбор:", answer)
 
 if answer==("yep"):
